@@ -2,6 +2,8 @@
 Take notes of knowledge and Visualize the skill tree
 
 (2019.10.15)
+
+```bash
 ├── Database
 ├── FullTextSearch
 ├── Model
@@ -41,3 +43,4 @@ Take notes of knowledge and Visualize the skill tree
 │   └── WordRepresentation
 │       └── BPE(BytePairEncoding)
 ├── Python
+```
