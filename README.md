@@ -15,6 +15,8 @@ Take notes of knowledge and Visualize the skill tree
 │   │   ├── CNN
 │   │   ├── Normalization
 │   │   │   ├── BN(BatchNormalization)
+│   │   │   ├── L1-Normalization
+│   │   │   ├── L2-Normalization
 │   │   │   └── LN(LayerNormalization)
 │   │   ├── RNN
 │   │   │   ├── GRU
@@ -42,5 +44,25 @@ Take notes of knowledge and Visualize the skill tree
 │   ├── Optimizer
 │   └── WordRepresentation
 │       └── BPE(BytePairEncoding)
+├── Paper
+│   ├── CNN-related
+│   │   ├── 2018-AttentiveConvolution.md
+│   │   └── 2018-TCN.md
+│   ├── RNN-related
+│   ├── Transformer-related
+│   └── others
+│       ├── 2015-DAN.md
+│       └── 2018-USE.md
 ├── Python
+│   └── test.txt
+├── README.md
+└── Recommendation
+    ├── ALS
+    ├── KNN
+    ├── LSH
+    ├── PCA -> Model/ML/DimensionReduction/PCA
+    ├── SVD
+    ├── collaborative-filtering
+    ├── content-based
+    └── tf-idf
 ```
