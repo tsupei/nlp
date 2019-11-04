@@ -1,9 +1,10 @@
 # nlp
 Take notes of knowledge and Visualize the skill tree
 
-(2019.10.15)
+(2019.11.04)
 
 ```bash
+.
 ├── Database
 ├── FullTextSearch
 ├── Model
@@ -33,6 +34,11 @@ Take notes of knowledge and Visualize the skill tree
 │   │   └── ROC-curve
 │   ├── LossFunction
 │   ├── ML
+│   │   ├── Classification
+│   │   │   ├── BayesClassifier
+│   │   │   ├── DecisionTree
+│   │   │   ├── LinearRegression
+│   │   │   └── SVM
 │   │   ├── DimensionReduction
 │   │   │   ├── LSE
 │   │   │   ├── PCA
@@ -48,14 +54,14 @@ Take notes of knowledge and Visualize the skill tree
 │   ├── CNN-related
 │   │   ├── 2018-AttentiveConvolution.md
 │   │   └── 2018-TCN.md
+│   ├── CoherenceResolution
+│   │   └── PointerNetwork.md
 │   ├── RNN-related
 │   ├── Transformer-related
 │   └── others
 │       ├── 2015-DAN.md
 │       └── 2018-USE.md
 ├── Python
-│   └── test.txt
-├── README.md
 └── Recommendation
     ├── ALS
     ├── KNN
